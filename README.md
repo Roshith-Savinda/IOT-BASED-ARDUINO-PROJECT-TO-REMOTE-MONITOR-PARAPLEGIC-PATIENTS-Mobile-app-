@@ -1,16 +1,35 @@
-# myapp
+## My Mobile App interfaces
 
-A new Flutter project.
+## Interface Screenshots
 
-## Getting Started
+<div align="center">
+  <img src="https://github.com/Roshith-Savinda/IOT-BASED-ARDUINO-PROJECT-TO-REMOTE-MONITOR-PARAPLEGIC-PATIENTS-Mobile-app-/blob/main/1.jpg" width="300" />
+  <img src="https://github.com/Roshith-Savinda/IOT-BASED-ARDUINO-PROJECT-TO-REMOTE-MONITOR-PARAPLEGIC-PATIENTS-Mobile-app-/blob/main/2.jpg" width="300" />
+  <img src="https://github.com/Roshith-Savinda/IOT-BASED-ARDUINO-PROJECT-TO-REMOTE-MONITOR-PARAPLEGIC-PATIENTS-Mobile-app-/blob/main/3.jpg" width="300" />
+</div>
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
+<div align="center">
+  <img src="https://github.com/Roshith-Savinda/IOT-BASED-ARDUINO-PROJECT-TO-REMOTE-MONITOR-PARAPLEGIC-PATIENTS-Mobile-app-/blob/main/4.jpg" width="300" />
+  <img src="https://github.com/Roshith-Savinda/IOT-BASED-ARDUINO-PROJECT-TO-REMOTE-MONITOR-PARAPLEGIC-PATIENTS-Mobile-app-/blob/main/5.jpg" width="300" />
+  <img src="https://github.com/Roshith-Savinda/IOT-BASED-ARDUINO-PROJECT-TO-REMOTE-MONITOR-PARAPLEGIC-PATIENTS-Mobile-app-/blob/main/6.jpg" width="300" />
+</div>
+<br>
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+<div align="center">
+  <img src="https://github.com/Roshith-Savinda/IOT-BASED-ARDUINO-PROJECT-TO-REMOTE-MONITOR-PARAPLEGIC-PATIENTS-Mobile-app-/blob/main/7.jpg" width="300" />
+  <img src="https://github.com/Roshith-Savinda/IOT-BASED-ARDUINO-PROJECT-TO-REMOTE-MONITOR-PARAPLEGIC-PATIENTS-Mobile-app-/blob/main/8.jpg" width="300" />
+  <img src="https://github.com/Roshith-Savinda/IOT-BASED-ARDUINO-PROJECT-TO-REMOTE-MONITOR-PARAPLEGIC-PATIENTS-Mobile-app-/blob/main/9.jpg" width="300" />
+</div>
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+<div align="center">
+  <img src="https://github.com/Roshith-Savinda/IOT-BASED-ARDUINO-PROJECT-TO-REMOTE-MONITOR-PARAPLEGIC-PATIENTS-Mobile-app-/blob/main/10.jpg" width="300" />
+  <img src="https://github.com/Roshith-Savinda/IOT-BASED-ARDUINO-PROJECT-TO-REMOTE-MONITOR-PARAPLEGIC-PATIENTS-Mobile-app-/blob/main/11.jpg" width="300" />
+  <img src="https://github.com/Roshith-Savinda/IOT-BASED-ARDUINO-PROJECT-TO-REMOTE-MONITOR-PARAPLEGIC-PATIENTS-Mobile-app-/blob/main/12.jpg" width="300" />
+</div>
+
+<div align="center">
+  <img src="https://github.com/Roshith-Savinda/IOT-BASED-ARDUINO-PROJECT-TO-REMOTE-MONITOR-PARAPLEGIC-PATIENTS-Mobile-app-/blob/main/13.jpg" width="300" />
+  <img src="https://github.com/Roshith-Savinda/IOT-BASED-ARDUINO-PROJECT-TO-REMOTE-MONITOR-PARAPLEGIC-PATIENTS-Mobile-app-/blob/main/14.jpg" width="300" />
+
+</div>
